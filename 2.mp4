@@ -1,0 +1,60 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,Chrome=1" />
+    <meta http-equiv="X-UA-Compatible" content="IE=9" />
+    <title>[FEILIN] 2016.09.21 VN.032 慕羽茜</title>
+</head>
+<link rel="stylesheet" type="text/css" href="/css/share.css">
+
+<body onload="init()">
+
+        <div class="gaog" id="gaog">
+            <!--广告添加区域-->
+            <div class="gaog-var">
+
+            </div>
+        </div>
+
+        <div id="a1"></div>
+
+        <div style="display:none" name="playtime" value="461"></div>
+        <div style="display:none" name="sizeview" value="583870521"></div>
+        <script type="text/javascript" src="/js/jquery-1.11.2.min.js" charset="utf-8"></script>
+        <script type="text/javascript" src="/ckplayerx/ckplayer.js" charset="utf-8"></script>
+                <link rel="stylesheet" href="/DPlayer/DPlayer.min.css">
+        <script src="/DPlayer/DPlayer.min.js"></script>
+				<script src="/hls.min.js"></script>
+		                <script type="text/javascript">
+            var video_player= 'dplayer'
+            var tracker_url = ''
+            var signaler_url = ''
+            var hosts = '';
+            var redirecturl = "http://vip.okzybo.com";
+            var videoid = "6cb993c8fa82ad11ff71fad64d213a72";
+
+            var id = '6cb993c8fa82ad11ff71fad64d213a72'
+            var     l = ''
+            var     r= ''
+            var     t= '15'
+            var     d= ''
+            var     u= ''
+
+            var main = "/20180606/11251_7e935adb/index.m3u8?sign=78f213b9f6914acb0576565791ea933a";
+            var xml = "/20180606/11251_7e935adb/index.xml?sign=78f213b9f6914acb0576565791ea933a";
+            var pic = "/20180606/11251_7e935adb/1.jpg";
+            var thumbnails = "/20180606/11251_7e935adb/thumbnails.jpg";
+        </script>
+        <script type="text/javascript" src="/js/share.js" charset="utf-8"></script>
+        <script type="text/javascript">
+
+        </script>
+
+    <!--/广告添加区域-->
+</body>
+
+</html>
+
